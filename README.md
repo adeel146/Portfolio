@@ -9,7 +9,7 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://63942c0f3860055bdcf3ed7e--legendary-entremet-868d8e.netlify.app/)**.
+## To view a live example, **[click here](https://legendary-entremet-868d8e.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
