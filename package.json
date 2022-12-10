@@ -6,7 +6,7 @@
   "author": "Muhammad Adeel",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next --openssl-legacy-provider dev",
     "build": "next build",
     "start": "next --openssl-legacy-provider start",
     "lint": "next lint"
