@@ -70,7 +70,7 @@ export const skillsSection = {
       ],
     },
     {
-      title: "Project MAnagement",
+      title: "Project Management",
       lottieAnimationFile:
         "https://assets6.lottiefiles.com/packages/lf20_cwA7Cn.json", // Path of Lottie Animation JSON File
       skills: [
