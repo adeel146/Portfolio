@@ -108,7 +108,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Muhammad Adeel**
 
 - Github: [@adeel146](https://github.com/adeel146)
-- LinkedIn: [@1hanzla100](https://www.linkedin.com/in/muhammad-adeel-539025168/)
+- LinkedIn: [@adeel146](https://www.linkedin.com/in/muhammad-adeel-539025168/)
 
 ## Show your support
 
