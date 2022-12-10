@@ -9,13 +9,10 @@
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view a live example, **[click here](https://63941e1fdb863956f1898ba1--legendary-entremet-868d8e.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/adeel146/developer-portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/adeel146/developer-portfolio/pulls).
 
 ## Sections
 
@@ -23,7 +20,6 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
-✔️ Feedbacks\
 ✔️ Projects\
 ✔️ Github Profile
 
