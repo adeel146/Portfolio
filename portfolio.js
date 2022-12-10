@@ -224,8 +224,8 @@ export const projects = [
   {
     name: "developer-portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase my work and skills as a software developer.",
-    // github: "https://github.com/adeel146/developer-portfolio",
-    // link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/adeel146/Portfolio",
+    link: "https://63941e1fdb863956f1898ba1--legendary-entremet-868d8e.netlify.app/",
   },
   {
     name: "BASF Battery Recycling Platform",
@@ -267,7 +267,7 @@ export const seoData = {
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Muhammad Adeel",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://63941e1fdb863956f1898ba1--legendary-entremet-868d8e.netlify.app/",
   keywords: [
     "Muhammad Adeel",
     "@1muhammadAdeel",
