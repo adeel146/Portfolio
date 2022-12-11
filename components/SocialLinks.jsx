@@ -49,17 +49,17 @@ const SocialLinks = () => {
 					</span>
 				</Button>
 			)}
-			{socialLinks.instagram && (
+			{socialLinks.upwork && (
 				<Button
 					className="btn-icon-only rounded-circle ml-1"
-					color="instagram"
-					href={socialLinks.instagram}
+					color="white"
+					href={socialLinks.upwork}
 					target="_blank"
 					rel="noopener"
 					aria-label="Instagram"
 				>
 					<span className="btn-inner--icon">
-						<i className="fa fa-instagram" />
+					<img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-regular-tal-revivo.png"/>
 					</span>
 				</Button>
 			)}

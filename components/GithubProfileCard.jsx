@@ -43,7 +43,7 @@ const GithubProfileCard = ({ prof }) => {
                   <i className="fa fa-phone text-info mr-2" />
                   +923074377962
                 </a>
-                <div className="w-25 my-3 icon-shape bg-gradient-white shadow rounded text-info">
+                <div  style={{ width: "max-content" }} className=" my-3 icon-shape bg-gradient-white shadow rounded text-info">
                   <i className="ni ni-pin-3 text-info mr-2" />
                   {prof.location}
                 </div>

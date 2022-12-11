@@ -18,8 +18,7 @@ export const contact = {};
 export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/muhammad-adeel-539025168/",
   github: "https://github.com/adeel146",
-  instagram: "https://www.instagram.com/adeel.113/",
-  facebook: "https://www.facebook.com/profile.php?id=100009616457851",
+  upwork: "https://www.upwork.com/freelancers/~0131d4f27f703e38a0?s=1110580755057594368",
 };
 
 export const skillsSection = {
@@ -69,63 +68,63 @@ export const skillsSection = {
         },
       ],
     },
-    {
-      title: "Project Management",
-      lottieAnimationFile:
-        "https://assets6.lottiefiles.com/packages/lf20_cwA7Cn.json", // Path of Lottie Animation JSON File
-      skills: [
-        emoji("⚡ Experience of working on multiple cloud platforms"),
-        emoji(
-          "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
-        ),
-        emoji(
-          "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
-        ),
-      ],
-      softwareSkills: [
-        // ? Check README To get icon details
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "logos:aws",
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "logos:microsoft-azure",
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "logos:heroku-icon",
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "logos:postgresql",
-        },
-        {
-          skillName: "Github",
-          fontAwesomeClassname: "akar-icons:github-fill",
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "logos:docker-icon",
-        },
-        {
-          skillName: "Github Actions",
-          fontAwesomeClassname: "logos:github-actions",
-        },
-        {
-          skillName: "Cloudinary",
-          fontAwesomeClassname: "logos:cloudinary",
-        },
-        {
-          skillName: "Nginx",
-          fontAwesomeClassname: "logos:nginx",
-        },
-        {
-          skillName: "Sentry",
-          fontAwesomeClassname: "logos:sentry-icon",
-        },
-      ],
-    },
+    // {
+    //   title: "Project Management",
+    //   lottieAnimationFile:
+    //     "https://assets6.lottiefiles.com/packages/lf20_cwA7Cn.json", // Path of Lottie Animation JSON File
+    //   skills: [
+    //     emoji("⚡ Experience of working on multiple cloud platforms"),
+    //     emoji(
+    //       "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
+    //     ),
+    //     emoji(
+    //       "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
+    //     ),
+    //   ],
+    //   softwareSkills: [
+    //     // ? Check README To get icon details
+    //     {
+    //       skillName: "AWS",
+    //       fontAwesomeClassname: "logos:aws",
+    //     },
+    //     {
+    //       skillName: "Azure",
+    //       fontAwesomeClassname: "logos:microsoft-azure",
+    //     },
+    //     {
+    //       skillName: "Heroku",
+    //       fontAwesomeClassname: "logos:heroku-icon",
+    //     },
+    //     {
+    //       skillName: "PostgreSQL",
+    //       fontAwesomeClassname: "logos:postgresql",
+    //     },
+    //     {
+    //       skillName: "Github",
+    //       fontAwesomeClassname: "akar-icons:github-fill",
+    //     },
+    //     {
+    //       skillName: "Docker",
+    //       fontAwesomeClassname: "logos:docker-icon",
+    //     },
+    //     {
+    //       skillName: "Github Actions",
+    //       fontAwesomeClassname: "logos:github-actions",
+    //     },
+    //     {
+    //       skillName: "Cloudinary",
+    //       fontAwesomeClassname: "logos:cloudinary",
+    //     },
+    //     {
+    //       skillName: "Nginx",
+    //       fontAwesomeClassname: "logos:nginx",
+    //     },
+    //     {
+    //       skillName: "Sentry",
+    //       fontAwesomeClassname: "logos:sentry-icon",
+    //     },
+    //   ],
+    // },
     {
       title: "Cypress Automation",
       lottieAnimationFile:
