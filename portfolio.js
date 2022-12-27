@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "React. js developer design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem.",
   resumeLink:
-    "https://drive.google.com/file/d/1zBEflz-pRi5GYN-TIhdgXpSOx4JmVK9o/view?usp=sharing",
+    "https://drive.google.com/file/d/14lw08yufxDXKRlyqvC3nnQPIdUrK8vkP/view?usp=share_link",
 };
 
 export const openSource = {
