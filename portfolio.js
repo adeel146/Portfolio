@@ -210,7 +210,7 @@ export const experience = [
   {
     role: "Software Engineer",
     company: "System Limited",
-    companylogo: "/img/icons/common/logo_ili.png",
+    companylogo: "/img/icons/common/logo_systems.png",
     date: "Mar 2021 - Present ",
     desc: "I worked as frontend Reactjs developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
     // descBullets: [
@@ -266,7 +266,8 @@ export const seoData = {
   description:
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Muhammad Adeel",
-  image: "https://www.linkpicture.com/q/WhatsApp-Image-2022-12-10-at-1.26.34-PM.jpeg",
+  image:
+    "https://www.linkpicture.com/q/WhatsApp-Image-2022-12-10-at-1.26.34-PM.jpeg",
   url: "https://legendary-entremet-868d8e.netlify.app/",
   keywords: [
     "Muhammad Adeel",
