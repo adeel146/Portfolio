@@ -188,9 +188,9 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: "University of the Punjab",
-    subHeader: "Bachelor of Business and Information Technology",
-    duration: "2017-2021",
+    schoolName: "National University of Computer and Emerging Sciences",
+    subHeader: "Bachelor of Science - BS, Computer Science",
+    duration: "2015-2019",
     desc: "Final Year Project,Food Order web App using Reactjs.",
     descBullets: [
       "A mix of IT and business skills",
