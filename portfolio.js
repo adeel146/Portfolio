@@ -201,17 +201,17 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Frontend Developer",
+    role: "Software Engineer",
     company: "Nextbridge (Pvt) Ltd",
     companylogo: "/img/icons/common/dusecaSoftware.svg",
-    date: "Feb 2020 - Mar 2022",
+    date: "Jul 2019 - Mar 2021",
     desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
   },
   {
     role: "Software Engineer",
-    company: "ILI Digital Ag",
+    company: "System Limited",
     companylogo: "/img/icons/common/logo_ili.png",
-    date: "Mar 2022 - Present ",
+    date: "Mar 2021 - Present ",
     desc: "I worked as frontend Reactjs developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
