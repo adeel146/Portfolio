@@ -18,7 +18,8 @@ export const contact = {};
 export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/muhammad-adeel-539025168/",
   github: "https://github.com/adeel146",
-  upwork: "https://www.upwork.com/freelancers/~0131d4f27f703e38a0?s=1110580755057594368",
+  upwork:
+    "https://www.upwork.com/freelancers/~0131d4f27f703e38a0?s=1110580755057594368",
 };
 
 export const skillsSection = {
