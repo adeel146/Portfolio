@@ -240,7 +240,7 @@ export const projects = [
   {
     name: "School Attendance App",
     desc: "Replacing the manual tasks of attendance taking, assignments management,Roles Management and feedback collection with some comprehensive apps can save a lot of precious teaching time.",
-    link: "https://attendance-admin-ndeq.vercel.app/",
+    link: "https://attendance-admin-fdy1.vercel.app/dashboard",
   },
 ];
 
