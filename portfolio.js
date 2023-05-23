@@ -188,9 +188,9 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: "National University of Computer and Emerging Sciences",
-    subHeader: "Bachelor of Science - BS, Computer Science",
-    duration: "2015-2019",
+    schoolName: "University of the Punjab, Lahore",
+    subHeader: "Bachelor of Business and Information Technology",
+    duration: "2014-2018",
     desc: "Final Year Project,Food Order web App using Reactjs.",
     descBullets: [
       "A mix of IT and business skills",
@@ -201,26 +201,39 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Engineer",
-    company: "Nextbridge (Pvt) Ltd",
-    companylogo: "/img/icons/common/dusecaSoftware.svg",
-    date: "Jul 2019 - Mar 2021",
-    desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
+    role: "Senior Software Engineer",
+    company: "Graffitecs",
+    companylogo: "/img/icons/common/graffitecs.jpeg",
+    date: "Nov 2021 - Present",
+    desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
   },
   {
-    role: "Software Engineer",
-    company: "System Limited",
+    role: "Senior Software Engineer / Frontend Developer",
+    company: "ILI DIgital",
     companylogo: "/img/icons/common/logo_systems.png",
-    date: "Mar 2021 - Present ",
-    desc: "I worked as frontend Reactjs developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
+    date: "Jun 2020 - Nov 2021",
+    desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
+  {
+    role: "Software Engineer / Frontend Developer",
+    company: "Nextbridge (Pvt) Ltd",
+    companylogo: "/img/icons/common/dusecaSoftware.svg",
+    date: "Feb 2018 - Jun 2020",
+    desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
+  },
 ];
 
 export const projects = [
+  {
+    name: "The Gate",
+    desc: "The Gate is a robust system used by large organizations in Dubai for managing their various processes. One of the system's most impressive features is its dynamic workflow process.",
+    // github: "https://github.com/adeel146/Portfolio",
+    link: "http://gate.graffitecs.com/",
+  },
   {
     name: "developer-portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase my work and skills as a software developer.",
@@ -231,7 +244,7 @@ export const projects = [
     name: "BASF Battery Recycling Platform",
     desc: "It's a joint project with BMW and BASF Battery Recycling with multiple Roles This project helped to optimize their recycling order process , My role in this project was frontend Reactjs Developer",
     // github: "https://github.com/adeel146/Django-React-Marketplace",
-    link: "https://battery-recycling-dev.basf.ilidigital-soft.com/",
+    // link: "https://battery-recycling-dev.basf.ilidigital-soft.com/",
   },
   {
     name: "Mcyclo",
@@ -240,7 +253,7 @@ export const projects = [
   {
     name: "School Attendance App",
     desc: "Replacing the manual tasks of attendance taking, assignments management,Roles Management and feedback collection with some comprehensive apps can save a lot of precious teaching time.",
-    link: "https://attendance-admin-fdy1.vercel.app/dashboard",
+    link: "https://attendance-admin-fdy1.vercel.app/",
   },
 ];
 
