@@ -4,7 +4,7 @@ export const greetings = {
   name: "Muhammad Adeel",
   title: "Hi all, I'm Adeel",
   description:
-    "React. js developer design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem.",
+    "Experienced Senior Software Engineer with a strong focus on ReactJS, creating cutting-edge web applications, dynamic data visualization tools, and custom components. Skilled in cross-functional collaboration, proactive problem-solving, and staying abreast of emerging technologies. Eager to connect with like-minded professionals and explore new opportunities in web development. Let's connect!",
   resumeLink:
     "https://drive.google.com/file/d/14lw08yufxDXKRlyqvC3nnQPIdUrK8vkP/view?usp=share_link",
 };
@@ -24,7 +24,7 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "REACTJS DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Crafting Seamless User Experiences with React.js Expertise",
   data: [
     {
       title: "Reactjs Developer",
@@ -208,15 +208,25 @@ export const experience = [
     desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
   },
   {
+    role: "Senior Software Engineer",
+    company: "Eighty6 shop",
+    companylogo: "/img/icons/common/eighty6.svg",
+    date: "Aug 2023 - Present",
+    desc: "As a Senior Software Engineer, I have played a key role in the creation of web-based admin dashboards for multiple applications, utilizing technologies like React.js, Chakra UI, and Redux Toolkit. Additionally, I am actively involved in code reviews and contribute to various other facets of the development process.",
+  },
+  {
+    role: "Reactjs Developer",
+    company: "Resleeve AI",
+    companylogo: "/img/icons/common/resleeve.webp",
+    date: "Nov 2022 - Mar 2023",
+    desc: "I held the position of a React.js developer, where my primary role involved crafting web-based admin dashboards for multiple applications. In this capacity, I employed React.js, Material UI, Redux Toolkit, and several other libraries to achieve the desired outcomes.",
+  },
+  {
     role: "Senior Software Engineer / Frontend Developer",
     company: "ILI DIgital",
-    companylogo: "/img/icons/common/logo_systems.png",
+    companylogo: "/img/icons/common/logo_ili.png",
     date: "Jun 2020 - Nov 2021",
     desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
   },
   {
     role: "Software Engineer / Frontend Developer",
@@ -229,15 +239,23 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Three60",
+    desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
+    link: "https://three60.pm/",
+  },
+  {
+    name: "86 Restaurant Management System",
+    desc: "Ordering platform streamlining procurement between restaurants and suppliers.Manage all orders & products and communicate with your customers from one personalized dashboard",
+    link: "http://eighty6.shop/",
+  },
+  {
     name: "Resleeve AI",
     desc: "Instantly Generate Realistic Fashion Designs and Photoshoots with Resleeve’s AI Technology Create thousands of photorealistic fashion designs within seconds",
-    // github: "https://github.com/adeel146/Portfolio",
     link: "https://resleeve.ai/",
   },
   {
     name: "The Gate",
     desc: "The Gate is a robust system used by large organizations in Dubai for managing their various processes. One of the system's most impressive features is its dynamic workflow process.",
-    // github: "https://github.com/adeel146/Portfolio",
     link: "http://gate.graffitecs.com/",
   },
   {
