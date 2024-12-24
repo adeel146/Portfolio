@@ -27,7 +27,7 @@ export const skillsSection = {
   subTitle: "Crafting Seamless User Experiences with React.js Expertise",
   data: [
     {
-      title: "Reactjs Developer",
+      title: "Senior Software Development Engineer",
       lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Building responsive Single-Page-Apps (SPA) in React.js"),
