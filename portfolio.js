@@ -2,9 +2,10 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
   name: "Muhammad Adeel",
-  title: "Hi all, I'm Adeel",
+  title: "Hi, I'm Adeel",
   description:
-    "Experienced Senior Software Engineer with a strong focus on ReactJS, creating cutting-edge web applications, dynamic data visualization tools, and custom components. Skilled in cross-functional collaboration, proactive problem-solving, and staying abreast of emerging technologies. Eager to connect with like-minded professionals and explore new opportunities in web development. Let's connect!",
+    `
+I’m an experienced Senior Software Engineer with over 6 years of expertise specializing in ReactJS, Next.js, and the Lit framework. I’m dedicated to building cutting-edge web applications, dynamic data visualization tools, and custom components. I excel in cross-functional collaboration, proactive problem-solving, and staying ahead of emerging technologies. Passionate about creating innovative, user-centric solutions, I’m always eager to connect with like-minded professionals and explore new opportunities in web development. Let’s connect and collaborate!`,
   resumeLink:
     "https://drive.google.com/file/d/14lw08yufxDXKRlyqvC3nnQPIdUrK8vkP/view?usp=share_link",
 };
@@ -23,8 +24,8 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-  title: "What I do",
-  subTitle: "Crafting Seamless User Experiences with React.js Expertise",
+  title: "What I do ?",
+  subTitle: "I am a Frontend Developer with over 6 years of experience in building responsive and accessible web applications using ReactJS, Next.js, TypeScript, and the Lit framework. I specialize in state management, testing with Jest, SEO optimization, and performance enhancement techniques. I deliver high-quality, user-focused solutions while following agile methodologies and staying up-to-date with modern UI/UX principles.",
   data: [
     {
       title: "Senior Software Development Engineer",
@@ -32,42 +33,74 @@ export const skillsSection = {
       skills: [
         emoji("⚡ Building responsive Single-Page-Apps (SPA) in React.js"),
         emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Integration APIs Using axios React Query"),
+        emoji("⚡ Creating interactive user interfaces using Vue.js"),
+        emoji("⚡ Developing modern web components with the Lit framework"),
+        emoji("⚡ Writing clean and maintainable JavaScript code for optimal performance"),
+        emoji("⚡ Leveraging TypeScript for type safety and better development experience"),
+        emoji("⚡ Managing global state and enhancing performance with Redux"),
+        emoji("⚡ Querying and managing data efficiently with GraphQL"),
+        emoji("⚡ Backend development and API integration with Node.js"),
+        emoji("⚡ Implementing scalable cloud-based solutions using AWS S3 and Lambda"),
+        emoji("⚡ Enhancing SEO and performance with Server-Side Rendering (SSR) in Next.js"),
+        emoji("⚡ Containerizing applications and managing microservices using Docker"),
+        emoji("⚡ Efficient data fetching and caching with Tanstack Query (React Query)"),
       ],
+
       softwareSkills: [
         {
-          skillName: "HTML-5",
-          fontAwesomeClassname: "vscode-icons:file-type-html",
+          skillName: "React JS",
+          fontAwesomeClassname: "vscode-icons:file-type-reactjs",
         },
         {
-          skillName: "CSS-3",
-          fontAwesomeClassname: "vscode-icons:file-type-css",
+          skillName: "Next JS",
+          fontAwesomeClassname: "vscode-icons:file-type-light-next",
+        },
+        {
+          skillName: "Vue Js",
+          fontAwesomeClassname: "logos:vuejs"
+        },
+        {
+          skillName: "Lit",
+          fontAwesomeClassname: "logos:lit"
         },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "logos:javascript",
         },
         {
-          skillName: "Reactjs",
-          fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-        },
-        {
-          skillName: "Nextjs",
-          fontAwesomeClassname: "vscode-icons:file-type-light-next",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "logos:typescript",
         },
         {
           skillName: "Redux",
           fontAwesomeClassname: "logos:redux",
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "logos:npm-icon",
+          skillName: "GraphQL",
+          fontAwesomeClassname: "logos:graphql",
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "logos:yarn",
+          skillName: "Node js",
+          fontAwesomeClassname: "logos:nodejs-icon",
         },
-      ],
+        {
+          skillName: "AWS S3 Lambda",
+          fontAwesomeClassname: "logos:aws",
+        },
+        {
+          skillName: "Server-Side-Rendering_SSR",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "logos:docker-icon",
+        }, {
+          skillName: "Tanstack Query",
+          fontAwesomeClassname: "logos:react-query"
+        },
+
+      ]
+
     },
     // {
     //   title: "Project Management",
@@ -191,7 +224,7 @@ export const educationInfo = [
     schoolName: "University of the Punjab, Lahore",
     subHeader: "Bachelor of Business and Information Technology",
     duration: "2014-2018",
-    desc: "Final Year Project,Food Order web App using Reactjs.",
+    desc: "Final Year Project,Food order web-app using React Js.",
     descBullets: [
       "A mix of IT and business skills",
       "To develop understanding of application of IT tools in business operations for solving business problems and making managerial decisions using the latest technologies.",
@@ -202,16 +235,23 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Senior Software Engineer",
+    company: "Illumina Technology Solution",
+    companylogo: "/img/icons/common/IlluminaIcon.jpeg",
+    date: "Jan 2023 - Present",
+    desc: "I worked on the development of the Microsoft.com website, collaborating across multiple teams and environments. I utilized Lit Framework, ReactJS, and Material-UI to develop and optimize web components and functionalities, creating component libraries for consistent UI across pages. I coordinated with cross-functional teams to manage tasks and workflows using Azure Board and implemented robust web solutions that ensured high performance, scalability, and security. I led efforts in maintaining coding standards, conducting code reviews, and mentoring junior developers while focusing on frontend development best practices. Additionally, I played a key role in the development, testing, and deployment processes, ensuring seamless integration and delivery across all environments.",
+  },
+  {
+    role: "Senior Software Engineer",
     company: "Graffitecs",
     companylogo: "/img/icons/common/graffitecs.jpeg",
-    date: "Nov 2021 - Present",
-    desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
+    date: "Nov 2021 - Dec 2023",
+    desc: "I am an experienced frontend developer proficient in ReactJS, NextJS, Node.js, JavaScript, TypeScript, and various UI libraries like Tailwind CSS, Material UI, and Chakra UI. I have a strong background in building responsive web applications, optimizing performance, and ensuring excellent UI/UX design. I collaborate seamlessly with cross-functional teams, implementing innovative solutions like fraud detection and security algorithms. I actively participate in code reviews, maintain high coding standards, and develop reusable component libraries. Experienced in Agile methodologies (Scrum/Kanban), I also provide mentorship and guidance to team members.",
   },
   {
     role: "Senior Software Engineer",
     company: "Eighty6 shop",
     companylogo: "/img/icons/common/eighty6.svg",
-    date: "Aug 2023 - Present",
+    date: "Aug 2023 - Dec 2023",
     desc: "As a Senior Software Engineer, I have played a key role in the creation of web-based admin dashboards for multiple applications, utilizing technologies like React.js, Chakra UI, and Redux Toolkit. Additionally, I am actively involved in code reviews and contribute to various other facets of the development process.",
   },
   {
@@ -226,23 +266,24 @@ export const experience = [
     company: "ILI DIgital",
     companylogo: "/img/icons/common/logo_ili.png",
     date: "Jun 2020 - Nov 2021",
-    desc: "I worked as Senior Software Engineer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries..",
+    desc: `
+I have extensive experience in developing and maintaining web applications using JavaScript, ReactJS, NextJS, TypeScript, and CSS. I focus on creating user-friendly interfaces by applying UI/UX design principles. My expertise includes testing with Jest and React Testing Library, integrating RESTful APIs, and managing state using Redux. I also ensure the performance, scalability, and cross-browser compatibility of web applications. Additionally, I perform code reviews, troubleshoot and debug issues, and document development processes to maintain high code quality and efficiency.`,
   },
   {
     role: "Software Engineer / Frontend Developer",
     company: "Nextbridge (Pvt) Ltd",
     companylogo: "/img/icons/common/dusecaSoftware.svg",
     date: "Feb 2018 - Jun 2020",
-    desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Reactjs, Bootstrap, Redux Toolkit, Chart.js and some other libraries.",
+    desc: "I have experience maintaining and enhancing React-based systems, ensuring compliance with regulatory standards, and developing custom components to meet project requirements. My expertise includes designing user-friendly, responsive web applications using ReactJS, managing project dependencies, and optimizing processes. I collaborate with cross-functional teams to deliver high-quality solutions, write clean and efficient code, and create reusable UI components. Additionally, I continuously improve the performance of web applications, fix bugs, and participate in code reviews to maintain a high standard of code quality. My experience also extends to working with AWS services such as Lambda, DynamoDB, S3, and EC2.",
   },
 ];
 
 export const projects = [
-  {
-    name: "Three60",
-    desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
-    link: "https://three60.pm/",
-  },
+  // {
+  //   name: "Three60",
+  //   desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
+  //   link: "https://three60.pm/",
+  // },
   {
     name: "86 Restaurant Management System",
     desc: "Ordering platform streamlining procurement between restaurants and suppliers.Manage all orders & products and communicate with your customers from one personalized dashboard",
