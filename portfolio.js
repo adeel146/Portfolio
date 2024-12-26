@@ -279,11 +279,11 @@ I have extensive experience in developing and maintaining web applications using
 ];
 
 export const projects = [
-  // {
-  //   name: "Three60",
-  //   desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
-  //   link: "https://three60.pm/",
-  // },
+  {
+    name: "Three60",
+    desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
+    link: "https://three60.pm/",
+  },
   {
     name: "86 Restaurant Management System",
     desc: "Ordering platform streamlining procurement between restaurants and suppliers.Manage all orders & products and communicate with your customers from one personalized dashboard",
