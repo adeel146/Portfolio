@@ -238,7 +238,7 @@ export const experience = [
     company: "Illumina Technology Solution",
     companylogo: "/img/icons/common/IlluminaIcon.jpeg",
     date: "Jan 2023 - Present",
-    desc: "I worked on the development of the Microsoft.com website, collaborating across multiple teams and environments. I utilized Lit Framework, ReactJS, and Material-UI to develop and optimize web components and functionalities, creating component libraries for consistent UI across pages. I coordinated with cross-functional teams to manage tasks and workflows using Azure Board and implemented robust web solutions that ensured high performance, scalability, and security. I led efforts in maintaining coding standards, conducting code reviews, and mentoring junior developers while focusing on frontend development best practices. Additionally, I played a key role in the development, testing, and deployment processes, ensuring seamless integration and delivery across all environments.",
+    desc: "I worked on the development of the Microsoft.com website, collaborating across multiple teams and environments. I utilized Lit Framework to develop and optimize web components and functionalities, creating component libraries for consistent UI across pages. I coordinated with cross-functional teams to manage tasks and workflows using Azure Board and implemented robust web solutions that ensured high performance, scalability, and security. I led efforts in maintaining coding standards, conducting code reviews, and mentoring junior developers while focusing on frontend development best practices. Additionally, I played a key role in the development, testing, and deployment processes, ensuring seamless integration and delivery across all environments.",
   },
   {
     role: "Senior Software Engineer",
@@ -279,11 +279,11 @@ I have extensive experience in developing and maintaining web applications using
 ];
 
 export const projects = [
-  {
-    name: "Three60",
-    desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
-    link: "https://three60.pm/",
-  },
+  // {
+  //   name: "Three60",
+  //   desc: "The ultimate Project Management Cease toggling between Roadmaps, Tasks, Docs, Chats, & other tools. Three60.pm is the singular application to integrate your teams, goals, and processes.",
+  //   link: "https://three60.pm/",
+  // },
   {
     name: "86 Restaurant Management System",
     desc: "Ordering platform streamlining procurement between restaurants and suppliers.Manage all orders & products and communicate with your customers from one personalized dashboard",
