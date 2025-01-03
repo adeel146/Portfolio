@@ -57,7 +57,7 @@ export const skillsSection = {
         },
         {
           skillName: "Vue Js",
-          fontAwesomeClassname: "logos:vuejs"
+          fontAwesomeClassname: "logos:vue.js"
         },
         {
           skillName: "Lit",
