@@ -1,16 +1,23 @@
+const path = require('path');
+
 module.exports = {
-  reactStrictMode: false,
-  images: {
-    domains: ["avatars.githubusercontent.com"],
-  },
   webpack: (config, { isServer }) => {
-    // Only add Webpack 5 configuration on the client side
-    if (!isServer) {
-      config.resolve.fallback = {
-        ...config.resolve.fallback,
-        crypto: false, // Fixes OpenSSL issues
-      };
+    // Ensure Webpack 4 compatibility
+    if (Array.isArray(config)) {
+      config.forEach(cfg => {
+        if (cfg.resolve && cfg.resolve.fallback) {
+          delete cfg.resolve.fallback; // Remove the fallback property
+        }
+      });
+    } else {
+      if (config.resolve && config.resolve.fallback) {
+        delete config.resolve.fallback; // Remove the fallback property
+      }
     }
+
+    // Additional custom Webpack configuration
+    config.resolve.alias['@'] = path.join(__dirname, 'src');
+
     return config;
   },
 };
