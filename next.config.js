@@ -3,11 +3,14 @@ module.exports = {
   images: {
     domains: ["avatars.githubusercontent.com"],
   },
-  webpack: (config) => {
-    config.resolve.fallback = {
-      ...config.resolve.fallback,
-      crypto: false,
-    };
+  webpack: (config, { isServer }) => {
+    // Only add Webpack 5 configuration on the client side
+    if (!isServer) {
+      config.resolve.fallback = {
+        ...config.resolve.fallback,
+        crypto: false, // Fixes OpenSSL issues
+      };
+    }
     return config;
   },
 };
