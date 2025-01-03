@@ -7,7 +7,7 @@ export const greetings = {
     `
 I’m an experienced Senior Software Engineer with over 6 years of expertise specializing in ReactJS, Next.js, and the Lit framework. I’m dedicated to building cutting-edge web applications, dynamic data visualization tools, and custom components. I excel in cross-functional collaboration, proactive problem-solving, and staying ahead of emerging technologies. Passionate about creating innovative, user-centric solutions, I’m always eager to connect with like-minded professionals and explore new opportunities in web development. Let’s connect and collaborate!`,
   resumeLink:
-    "https://drive.google.com/file/d/14lw08yufxDXKRlyqvC3nnQPIdUrK8vkP/view?usp=share_link",
+    "https://drive.google.com/drive/folders/1fU5PwVNxKZryzF2QllJ_d8njj5EW1Nz0",
 };
 
 export const openSource = {
