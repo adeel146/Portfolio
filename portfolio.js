@@ -294,11 +294,11 @@ export const projects = [
     desc: "Instantly Generate Realistic Fashion Designs and Photoshoots with Resleeve’s AI Technology Create thousands of photorealistic fashion designs within seconds",
     link: "https://resleeve.ai/",
   },
-  {
-    name: "The Gate",
-    desc: "The Gate is a robust system used by large organizations in Dubai for managing their various processes. One of the system's most impressive features is its dynamic workflow process.",
-    link: "http://gate.graffitecs.com/",
-  },
+  // {
+  //   name: "The Gate",
+  //   desc: "The Gate is a robust system used by large organizations in Dubai for managing their various processes. One of the system's most impressive features is its dynamic workflow process.",
+  //   link: "http://gate.graffitecs.com/",
+  // },
   {
     name: "Mcyclo",
     desc: "Mcyclo is a Joint Project in which we have BASF along with admin panel which comprises of different roles like distributor, logistics, watcher etc. The administration panel is to help optimize the team's work and make it more efficient, achieving tasks as fast as possible.",
@@ -310,17 +310,17 @@ export const projects = [
     // github: "https://github.com/adeel146/Django-React-Marketplace",
     // link: "https://battery-recycling-dev.basf.ilidigital-soft.com/",
   },
-  {
-    name: "School Attendance App",
-    desc: "Replacing the manual tasks of attendance taking, assignments management,Roles Management and feedback collection with some comprehensive apps can save a lot of precious teaching time.",
-    link: "https://attendance-admin-fdy1.vercel.app/",
-  },
-  {
-    name: "Developer Portfolio",
-    desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase my work and skills as a software developer.",
-    github: "https://github.com/adeel146/Portfolio",
-    link: "https://legendary-entremet-868d8e.netlify.app/",
-  },
+  // {
+  //   name: "School Attendance App",
+  //   desc: "Replacing the manual tasks of attendance taking, assignments management,Roles Management and feedback collection with some comprehensive apps can save a lot of precious teaching time.",
+  //   link: "https://attendance-admin-fdy1.vercel.app/",
+  // },
+  // {
+  //   name: "Developer Portfolio",
+  //   desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase my work and skills as a software developer.",
+  //   github: "https://github.com/adeel146/Portfolio",
+  //   link: "https://legendary-entremet-868d8e.netlify.app/",
+  // },
 ];
 
 export const feedbacks = [
