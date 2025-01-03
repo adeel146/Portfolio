@@ -11,9 +11,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "engines": {
-  "node": ">=18.17.0"
-,
   "dependencies": {
     "@apollo/client": "^3.3.21",
     "@emailjs/browser": "^3.9.1",
